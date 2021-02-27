@@ -1,0 +1,36 @@
+
+*{  
+    
+    font-family : "Comic Sans MS"
+    
+}
+h1{
+    text-align:center;
+    color:blue;
+    font-family:"Comic Sans MS"
+}
+h2{
+    font-family:"Verdana"
+    
+}
+p{
+   font-size:25px;
+    font-family:"Verdana"
+}
+.header{
+
+   background-color: rgb(0, 140, 255);
+   display:flex;
+   justify-content:space-evenly;
+}
+.subheader{
+    
+   background-color:rgb(130, 132, 238);
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-evenly;
+}
+.footer{
+    display:flex;
+    justify-content:center
+}
